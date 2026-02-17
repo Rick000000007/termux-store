@@ -13,5 +13,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rick000000007/termux-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rick000000007/termux-store/issues"
+  },
+  "homepage": "https://github.com/Rick000000007/termux-store#readme"
 }
